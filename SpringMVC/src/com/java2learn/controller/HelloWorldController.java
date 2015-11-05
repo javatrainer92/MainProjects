@@ -15,7 +15,7 @@ public class HelloWorldController extends AbstractController{
 		modelAndView.addObject("customsrs", "Welcome to Spring MVC!!!");
 		//JDBC CODE
 		//Get the Customer records from DB
-		
+		  
 		
 		return modelAndView;
 	}
